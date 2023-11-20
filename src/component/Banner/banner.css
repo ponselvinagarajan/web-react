@@ -1,0 +1,17 @@
+.col6{
+width: 50%;
+}
+.image1 img{
+    width: 80%;
+    margin-top: 30px;
+    
+}
+.image2 img{
+    width: 80%;
+    margin-top: 30px;
+
+
+}
+.banner_img{
+    display: flex;
+}

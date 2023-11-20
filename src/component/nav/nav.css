@@ -1,0 +1,47 @@
+.col2{
+    width:16.66%;
+    padding:0 15px;
+
+}
+.container{
+	width:90%;
+    margin:20px auto;	
+ }
+ .row{
+	 display:flex;
+	 flex-wrap:wrap;
+	 
+ }
+ .Logo img{
+    width:20%;
+ }
+ .col3{
+    width: 25%;
+ }
+ .icon_sec{
+    display: flex;
+    gap: 60px;
+    margin-left: 10px;
+    transition: 0.5s;
+
+ }
+ .col6{
+    width: 50%;
+ }
+.icon_sec .icon1:hover{
+    color: rgb(228, 114, 21);
+}
+h3{
+   display: flex;
+   align-items: center;
+   gap: 2px;
+}
+.item1 b{
+     margin-left: -150px;
+     color:rgb(228, 114, 21) ;
+}
+
+.item1 span{
+    color:rgb(228, 114, 21) ;
+    padding-left: 10px;
+}

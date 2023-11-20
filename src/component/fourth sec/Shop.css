@@ -1,0 +1,93 @@
+.detail{
+    display:flex;
+    position: relative;
+
+}
+.card3::after{
+    content: "";
+    border-bottom: 1px solid lightgray;
+    position:absolute;
+    width:100%;
+    /* padding: 0 100%; */
+    left: 0;
+    height:2px;
+}
+.card1{
+    width:91.66%;
+    /* border: 1px solid gray;
+    height: 70px; */
+
+}
+.card1 h3{
+    text-align: left;
+    margin-left: 90px;
+    margin-top: -5px;
+}
+.card1 p{
+    text-align: left;
+    margin-left: 90px;
+    margin-top: -10px;
+
+    
+}
+.card2{
+    width:91.66%;
+}
+.card2 h3{
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -5px;
+    
+
+}
+.card2 p{
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -10px;
+
+}
+
+.card3{
+    width:91.66%;
+}
+.card3 h3{
+    text-align: left;
+    margin-left:50px;
+    margin-top: -5px;
+
+}
+.card3 p{
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -10px;
+
+}
+
+
+
+
+
+.card1 img{
+    width:80%;
+    height: 30%;
+    /* margin-left: 10px; */
+    margin-left: 20%;
+    border-radius: 20px;
+
+}
+.card2 img{
+    width:80%;
+    height: 30%;
+    /* margin-left: 10px; */
+    /* margin-left:120%; */
+    border-radius: 20px;
+
+}
+.card3 img{
+    width:80%;
+    height: 30%;
+    /* margin-left: 10px; */
+    /* margin-left:210%; */
+    border-radius: 20px;
+
+}

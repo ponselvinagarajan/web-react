@@ -1,0 +1,9 @@
+.col3{
+    width:16.66%;
+}
+.col3 img{
+    width:70%;
+}
+.third-sec{
+    display: flex;
+}

@@ -1,0 +1,53 @@
+.head{
+    margin-top: -15%;
+}
+.nav1{
+    display: flex;
+    margin-top: -12%;
+    gap: 35px;
+
+}
+.nav1 ul{
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    padding: 15px 8px;
+}
+.nav2{
+    display: flex;
+}
+.img_2 img{
+    width: 80%;
+    border-radius: 20px;
+    /* height: 10%; */
+}
+.data5 h3{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: -5px;
+}
+.data5 p{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: -10px;
+
+    
+}
+.nav3{
+    display: flex;
+}
+.data6{
+    display: flex;
+    background-color: lightgray;
+}
+.col6{
+   width:50%;
+}
+.col3{
+    width:25%;
+}
+.data7{
+    display: flex;
+}
+.data7 img{
+    width:80%;
+}
